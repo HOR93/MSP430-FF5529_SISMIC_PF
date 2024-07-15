@@ -83,8 +83,6 @@ int main(void){
         __delay_cycles(4000000);
         lcd_clear();
         lcd_str("Henrique OR");
-        lcd_cursor(0x40);
-        lcd_str("202066910");
         __delay_cycles(4000000);
 
         lcd_clear();
